@@ -10,6 +10,8 @@ void setup() {
 
 //bliblablub
 int i = 0;
+int a = 0;
+int b = 0;
 
 void loop() {
   // put your main code here, to run repeatedly:
